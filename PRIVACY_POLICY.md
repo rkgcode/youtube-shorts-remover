@@ -1,7 +1,7 @@
 # Privacy Policy - YouTube Shorts Remover
 
 **Last Updated:** June 2025  
-**Extension Version:** 1.0.0  
+**Extension Version:** 1.0.1  
 **Developer:** rkgcode
 
 ## 📋 Overview
